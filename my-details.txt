@@ -1,2 +1,2 @@
-Employee Id:
-Employee Code:
+Employee Id:23569	
+Employee Name:Gaddameedi Lohith
